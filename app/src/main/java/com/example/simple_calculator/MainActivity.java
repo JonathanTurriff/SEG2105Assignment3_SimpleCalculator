@@ -38,6 +38,9 @@ public class MainActivity extends AppCompatActivity {
         //Setting text field
         edttxt = (TextView) findViewById(R.id.Screen);
         //Setting actions
+        button0.setOnClickListener((v)->{
+            edttxt.setText(edttxt.getText()+"0");
+        });
         button1.setOnClickListener((v) ->{
             edttxt.setText(edttxt.getText() +"1");
         });
