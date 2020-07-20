@@ -1,5 +1,4 @@
 Name: Jonathan Turriff
-Student number: 300116124
 Class: SEG 2105
 Professor: Timothy Lethbridge
 
